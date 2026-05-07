@@ -1,6 +1,6 @@
 # 免费代理节点
 
-[![Update Status](https://github.com/xyfqzy/free-nodes/workflows/Node%20Collector%20and%20Testing/badge.svg)](https://github.com/xyfqzy/free-nodes/actions)
+[![Update Status](https://github.com/PENZA84/free-nodes/workflows/Node%20Collector%20and%20Testing/badge.svg)](https://github.com/PENZA84/free-nodes/actions)
 [![Telegram](https://img.shields.io/badge/📱_TG频道-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fq521)
 
 ## 📊 节点统计
@@ -10,7 +10,7 @@
 - 🔐 **Trojan节点**: 333
 - ⚡ **Clash配置**: 337 个代理
 
-- 🔄 **更新时间**: 2026-05-07 13:46:21 UTC
+- 🔄 **更新时间**: 2026-05-07 19:11:41 UTC
 - 🌐 **数据来源**: 60+ 免费节点订阅源
 - ✅ **测活检测**: 自动筛选可用节点
 - 🚀 **更新频率**: 每6小时自动更新
@@ -19,22 +19,22 @@
 
 ### V2Ray 订阅
 ```
-https://raw.githubusercontent.com/xyfqzy/free-nodes/main/nodes/v2ray.txt
+https://raw.githubusercontent.com/PENZA84/free-nodes/main/nodes/v2ray.txt
 ```
 
 ### Clash 订阅
 ```
-https://raw.githubusercontent.com/xyfqzy/free-nodes/main/nodes/clash.yaml
+https://raw.githubusercontent.com/PENZA84/free-nodes/main/nodes/clash.yaml
 ```
 
 ### Shadowsocks 订阅
 ```
-https://raw.githubusercontent.com/xyfqzy/free-nodes/main/nodes/shadowsocks.txt
+https://raw.githubusercontent.com/PENZA84/free-nodes/main/nodes/shadowsocks.txt
 ```
 
 ### Trojan 订阅
 ```
-https://raw.githubusercontent.com/xyfqzy/free-nodes/main/nodes/trojan.txt
+https://raw.githubusercontent.com/PENZA84/free-nodes/main/nodes/trojan.txt
 ```
 
 ## 📱 使用方法
@@ -64,8 +64,8 @@ https://raw.githubusercontent.com/xyfqzy/free-nodes/main/nodes/trojan.txt
 ## 🔗 相关链接
 
 - [Telegram频道](https://t.me/fq521) - 获取最新节点信息
-- [项目主页](https://github.com/xyfqzy/free-nodes) - 查看源代码
-- [Issues](https://github.com/xyfqzy/free-nodes/issues) - 反馈问题
+- [项目主页](https://github.com/PENZA84/free-nodes) - 查看源代码
+- [Issues](https://github.com/PENZA84/free-nodes/issues) - 反馈问题
 
 ---
 
